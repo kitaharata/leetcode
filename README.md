@@ -10,7 +10,11 @@ https://leetcode.com/kitaharata/
 * https://leetcode.com/problems/valid-parentheses/
 * https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 * https://leetcode.com/problems/remove-element/
+* https://leetcode.com/problems/search-insert-position/
 * https://leetcode.com/problems/length-of-last-word/
 * https://leetcode.com/problems/sqrtx/
 * https://leetcode.com/problems/climbing-stairs/
+* https://leetcode.com/problems/set-matrix-zeroes/
+* https://leetcode.com/problems/sort-colors/
+* https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
 * https://leetcode.com/problems/merge-sorted-array/
