@@ -17,4 +17,5 @@ https://leetcode.com/kitaharata/
 * https://leetcode.com/problems/set-matrix-zeroes/
 * https://leetcode.com/problems/sort-colors/
 * https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+* https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 * https://leetcode.com/problems/merge-sorted-array/
