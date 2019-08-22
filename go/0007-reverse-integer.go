@@ -1,9 +1,7 @@
 func reverse(x int) int {
-	rev := 0
-	max := 1<<31 - 1
-	min := -1 << 31
+	rev, pop, max, min := 0, 0, 1<<31-1, -1<<31
 	for x != 0 {
-		pop := x % 10
+		pop = x % 10
 		x /= 10
 		if rev > max/10 || rev == max/10 && pop > 7 {
 			return 0
